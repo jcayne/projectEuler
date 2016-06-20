@@ -1,2 +1,2 @@
-# projectEulerProblem1
-Implementation of problem 1 from Project Euler
+# projectEuler
+Implementation of problems from Project Euler
